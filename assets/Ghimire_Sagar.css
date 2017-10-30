@@ -1,0 +1,91 @@
+body{
+color: #44F50D;
+background: lightgreen;
+
+background-image: url("nepal.jpg");
+background-repeat : no-repeat;
+border-style: groove;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+#h3{
+	color: Red;
+	font-family: Arial;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.p{
+	background: lightblue;
+	color: #458834;
+	border-bottom-color: red;
+	text-align: center;
+}
+.a{
+	background-color: #E6ADAD;
+	color: green;
+	text-align: left;
+	font-style: italic;
+	font-size: 20px;
+}
+.next{
+   color: rgb(0, 0, 0);
+   align-content: left;
+}
+.class{
+	color: brown;
+	text-align: left;
+}
+.img-circle{
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	position: relative;
+
+	
+}
+
+#a{
+	padding-bottom: 10px;
+}
+.con{
+	text-align: center;
+	padding: 10 px;
+	text-decoration-color: black;
+}
+.video{
+	width: 600 px;
+	height: 500 px;
+}
+#nav{
+	color : white;
+	padding-top : 12px;
+	padding-left: 12px;
+}
+
+	
+	
+
+
+	
+	

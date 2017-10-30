@@ -1,0 +1,21 @@
+{
+    "name": "A03",
+    "version": "0.0.1",
+    "description": "Server side",
+    "main": "server.js",
+    "dependencies": {
+        "express": "latest",
+        "ejs": "latest",
+        "body-parser": "latest",
+        "morgan": "latest",
+        "socket.io": "latest",
+        "mailgun-js": "latest"
+    },
+    "author": "Sagar Ghimire",
+    "homepage": "https://bitbucket.org/GhimireSagae/A03Ghimire",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/GhimireSagae/A03Ghimire"
+    },
+    "license": "Apache-2.0"
+}
