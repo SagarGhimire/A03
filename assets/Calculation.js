@@ -10,6 +10,7 @@ function myFunction() {
 
 
     var total = wagecalculator(price, Quant, tax);
+    $("#Calculate").css("color", "Red"); //Using Jquery for the css component
 
 
     $("#Calculate").html("Your Total Price is : " + total);
